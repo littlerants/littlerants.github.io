@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 个人主页</title>
+    <title>Posts on </title>
     <link>https://littlerants.github.io/post/</link>
-    <description>Recent content in Posts on 个人主页</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Jan 2021 17:56:11 +0800</lastBuildDate><atom:link href="https://littlerants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jan 2021 17:02:59 +0800</lastBuildDate><atom:link href="https://littlerants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>个人主页</title>
+      <title>Honggang Wu </title>
+      <link>https://littlerants.github.io/post/whg/</link>
+      <pubDate>Fri, 15 Jan 2021 17:02:59 +0800</pubDate>
+      
+      <guid>https://littlerants.github.io/post/whg/</guid>
+      <description>Honggang Wu E-mail: wu-honggang@hotmail.com
+the second research institute of Civil Aviation Administration of China, China, 611731.</description>
+    </item>
+    
+    <item>
+      <title>WenJing Li</title>
+      <link>https://littlerants.github.io/post/lwj/</link>
+      <pubDate>Fri, 15 Jan 2021 16:59:37 +0800</pubDate>
+      
+      <guid>https://littlerants.github.io/post/lwj/</guid>
+      <description>YINGQI TANG E-mail: tangyingqi@std.uestc.deu.cn
+is currently studying for a master’s degree in the University of Electronic Science and Technology of China, Chengdu, China and received a bachelor’s degree from Chongqing University in 2019. His research is image processing based on deep learning, including intelligent transportation and video analysis.</description>
+    </item>
+    
+    <item>
+      <title>YingQi Tang</title>
       <link>https://littlerants.github.io/post/blog/</link>
       <pubDate>Thu, 14 Jan 2021 17:56:11 +0800</pubDate>
       
       <guid>https://littlerants.github.io/post/blog/</guid>
-      <description>YINGQI TANG is currently studying for a master’s degree in the University of Electronic Science and Technology of China, Chengdu, China and received a bachelor’s degree from Chongqing University in 2019. His research is image processing based on deep learning, including intelligent transportation and video analysis.</description>
+      <description>YINGQI TANG E-mail: tangyingqi@std.uestc.deu.cn
+is currently studying for a master’s degree in the University of Electronic Science and Technology of China, Chengdu, China and received a bachelor’s degree from Chongqing University in 2019. His research is image processing based on deep learning, including intelligent transportation and video analysis.</description>
     </item>
     
   </channel>
