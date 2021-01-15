@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>个人主页ff</title>
+    <title>个人主页</title>
     <link>https://littlerants.github.io/</link>
-    <description>Recent content on 个人主页ff</description>
+    <description>Recent content on 个人主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Jan 2021 17:56:11 +0800</lastBuildDate><atom:link href="https://littlerants.github.io/index.xml" rel="self" type="application/rss+xml" />
