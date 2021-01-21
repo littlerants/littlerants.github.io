@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on  </title>
     <link>https://littlerants.github.io/post/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Jan 2021 17:02:59 +0800</lastBuildDate><atom:link href="https://littlerants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Fri, 15 Jan 2021 17:02:59 +0800</pubDate>
       
       <guid>https://littlerants.github.io/post/whg/</guid>
-      <description>Honggang Wu E-mail: wu-honggang@hotmail.com
+      <description>E-mail: wu-honggang@hotmail.com
 the second research institute of Civil Aviation Administration of China, China, 611731.</description>
     </item>
     
@@ -23,16 +23,16 @@ the second research institute of Civil Aviation Administration of China, China, 
       <pubDate>Fri, 15 Jan 2021 16:59:37 +0800</pubDate>
       
       <guid>https://littlerants.github.io/post/lwj/</guid>
-      <description>WenJingLi Wenjing Li is currently studying for a master&amp;rsquo;s degree in the School of Information and Communication Engineering at Chengdu University of Electronic Science and Technology in China. She received her bachelor&amp;rsquo;s degree from the School of Electronic Engineering, University of Electronic Science and Technology of China in 2017. Her research interests are deep learning-based image processing and video object segmentation.</description>
+      <description>Wenjing Li is currently studying for a master&amp;rsquo;s degree in the School of Information and Communication Engineering at Chengdu University of Electronic Science and Technology in China. She received her bachelor&amp;rsquo;s degree from the School of Electronic Engineering, University of Electronic Science and Technology of China in 2017. Her research interests are deep learning-based image processing and video object segmentation.</description>
     </item>
     
     <item>
-      <title>YingQi Tang</title>
+      <title>YINGQI TANG </title>
       <link>https://littlerants.github.io/post/blog/</link>
       <pubDate>Thu, 14 Jan 2021 17:56:11 +0800</pubDate>
       
       <guid>https://littlerants.github.io/post/blog/</guid>
-      <description>YINGQI TANG E-mail: tangyingqi@std.uestc.deu.cn
+      <description>E-mail: tangyingqi@std.uestc.deu.cn
 is currently studying for a master’s degree in the University of Electronic Science and Technology of China, Chengdu, China and received a bachelor’s degree from Chongqing University in 2019. His research is image processing based on deep learning, including intelligent transportation and video analysis.</description>
     </item>
     
